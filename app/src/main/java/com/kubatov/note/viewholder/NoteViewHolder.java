@@ -5,10 +5,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.kubatov.note.R;
-import com.kubatov.note.pojo.NoteModel;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 

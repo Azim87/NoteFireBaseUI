@@ -3,4 +3,8 @@
     <string name="priority">1</string>
     <string name="title">Title</string>
     <string name="descripton">Descripton</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_description">Description</string>
+    <string name="edit_priority">Priority</string>
+    <string name="save_menu">Save</string>
 </resources>

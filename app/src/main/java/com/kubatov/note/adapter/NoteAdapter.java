@@ -12,8 +12,6 @@ import com.kubatov.note.R;
 import com.kubatov.note.pojo.NoteModel;
 import com.kubatov.note.viewholder.NoteViewHolder;
 
-import java.util.zip.Inflater;
-
 public class NoteAdapter extends FirestoreRecyclerAdapter<NoteModel, NoteViewHolder> {
 
     public NoteAdapter(@NonNull FirestoreRecyclerOptions<NoteModel> options) {
