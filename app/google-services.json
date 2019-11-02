@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706635567223",
+    "firebase_url": "https://note-28058.firebaseio.com",
+    "project_id": "note-28058",
+    "storage_bucket": "note-28058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706635567223:android:452a4aaa4f07430037b672",
+        "android_client_info": {
+          "package_name": "com.kubatov.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706635567223-5v509crua8o33ea20of1vt3vlreegl0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kubatov.note",
+            "certificate_hash": "5978d6540ab945b9300d81ba4e0ba996946d6415"
+          }
+        },
+        {
+          "client_id": "706635567223-euu3tgruljeq5n6u541rhgbc44a2g8uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9KfXyJPk3mRKlL7ATEAKQi8ekVJDjTfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706635567223-euu3tgruljeq5n6u541rhgbc44a2g8uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
