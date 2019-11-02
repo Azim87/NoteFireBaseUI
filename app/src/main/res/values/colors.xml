@@ -4,6 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="cardViewBackgroundColor">#A9A9FC</color>
+    <color name="edittextborderline">#000000</color>
 
 
 </resources>

@@ -9,6 +9,8 @@
 
     <EditText
         android:id="@+id/edit_text_title"
+        android:background="@drawable/edit_text_border_line"
+        android:padding="12dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/edit_title"
@@ -16,6 +18,8 @@
 
     <EditText
         android:id="@+id/edit_text_description"
+        android:background="@drawable/edit_text_border_line"
+        android:padding="12dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/edit_description"
